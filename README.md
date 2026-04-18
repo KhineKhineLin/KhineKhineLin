@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Khine Lin</h1>
+
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Hello%2C+I'm+KHINE+LIN!" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">A passionate flutter developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khinekhinelin&label=Profile%20views&color=0e75b6&style=flat" alt="khinekhinelin" /> </p>
